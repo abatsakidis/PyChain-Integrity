@@ -106,17 +106,17 @@ or
 
 
 ## 🔐 Security Concepts Used
--SHA-256 hashing
--Immutable data structures
--Blockchain linking (previous_hash)
--Integrity verification
+- SHA-256 hashing
+- Immutable data structures
+- Blockchain linking (previous_hash)
+- Integrity verification
 
 Inspired by blockchain systems like Bitcoin and smart contract platforms like Ethereum.
 
 ## ⚠️ Limitations
--Single-node blockchain (not decentralized)
--No consensus mechanism
--No cryptographic signatures (yet)
+- Single-node blockchain (not decentralized)
+- No consensus mechanism
+- No cryptographic signatures (yet)
 
 ## 🔥 Future Improvements
 - Digital signatures (public/private keys)
@@ -127,16 +127,16 @@ Inspired by blockchain systems like Bitcoin and smart contract platforms like Et
 - Logging system for cybersecurity use
 
 ## 🧪 Use Cases
--Document verification
--Digital notarization
--Log integrity (security / honeypots)
--Proof of existence
+- Document verification
+- Digital notarization
+- Log integrity (security / honeypots)
+- Proof of existence
 
 ## 🛠️ Tech Stack
--Python 3.x
--hashlib
--json
--argparse
+- Python 3.x
+- hashlib
+- json
+- argparse
 
 ## 📄 License
 
